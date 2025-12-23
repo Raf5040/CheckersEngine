@@ -13,7 +13,6 @@ Run CheckersGUI.java to begin playing
 The following is an example of a game played against the engine.
 
 ![Start](Checkers%20Game%20Screenshots/Start.png)
-![Early game](Checkers%20Game%20Screenshots/Early%20game.png)
 ![Midgame](Checkers%20Game%20Screenshots/Midgame.png)
 ![Endgame](Checkers%20Game%20Screenshots/Endgame.png)
 ![End](Checkers%20Game%20Screenshots/End.png)
