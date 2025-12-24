@@ -3,7 +3,7 @@
 Plays checkers against human user. By default the engine plays as the black pieces
 
 ## Features
-- Depth confiugred to take at most a minute or two on moves. May vary depending on system
+- Depth configured to take at most a minute or two on moves. May vary depending on system
 - Outputs evaluation for the position after each move
 
 ## Usage
